@@ -15,4 +15,5 @@ export default {
     '!src/**/*.d.ts',
     '!src/**/*.d.mts',
   ],
+  reporters: ['default', ['jest-junit', {outputDirectory:'reports'}]]
 };
