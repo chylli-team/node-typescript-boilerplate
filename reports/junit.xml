@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="2" failures="0" errors="0" time="0.984">
-  <testsuite name="greeter function" errors="0" failures="0" skipped="0" timestamp="2023-11-21T16:38:06" time="0.948" tests="2">
-    <testcase classname="greeter function delays the greeting by 2 seconds" name="greeter function delays the greeting by 2 seconds" time="0.001">
-    </testcase>
-    <testcase classname="greeter function greets a user with `Hello, {name}` message" name="greeter function greets a user with `Hello, {name}` message" time="0.001">
-    </testcase>
-  </testsuite>
-</testsuites>
